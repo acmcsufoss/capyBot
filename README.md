@@ -1,17 +1,6 @@
-# Discord_Python FullyPack
+# capyBot
 
-> A premade Discord bot using discord.py!
 
-- [Discord_Python FullyPack](#discord_python-fullypack)
-  - [About FullyPacks 🐘🎁](#about-fullypacks-)
-  - [About discord.py](#about-discordpy)
-  - [How to Run Locally](#how-to-run-locally)
-  - [Generating an invite link](#generating-an-invite-link)
-  - [Resources](#resources)
-
-## About FullyPacks 🐘🎁
-
-Welcome to `fullypack_discord_python`, one of a [_curated collection of Github templates_](https://github.com/orgs/acmcsufoss/repositories?q=fullypack_&type=all&sort=stargazers) designed to kickstart your project and help you get up and running in no time!
 
 ## About [discord.py](https://discordpy.readthedocs.io/en/stable/)
 
